@@ -1,0 +1,15 @@
+{
+    "conversionType": "files",
+    "srcFiles": [
+      "./svg-icons/**/*.svg"
+    ],
+    "outputDirectory": "./dist/icons",
+    "interfaceName": "SBGIcon",
+    "typeName": "SBGIcon",
+    "prefix": "icn_",
+    "generateType": true,
+    "exportCompleteIconSet": true,
+    "optimizeForLazyLoading": true,
+    "modelFileName": "sbg-icon.model",
+    "compileSources": true
+}
